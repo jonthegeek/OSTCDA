@@ -9,6 +9,7 @@ title: "Resources"
 | CAMIS Working Group (PSI/AIMS / PHUSE)                           | https://psiaims.github.io/CAMIS/                                                                   |
 | CDISC COSA                                                       | https://www.cdisc.org/cosa                                                                         |
 | Dataset-JSON WG (CDISC | PHUSE)                                  | https://phuse.global/Working_Groups                                                                |
+| Data Science Learning Community                                 | https://dslc.io                                 |
 | Modernization of Statistical Analytics Framework (Transcelerate) | https://www.transceleratebiopharmainc.com/assets/modernization-of-statistical-analytics-solutions/ |
 | Open Pharma                                                      | https://openpharma.github.io/                                                                      |
 | Open Source Portal for Clinical Study Evaluations                | https://www.glacon.eu/portal                                                                       |
